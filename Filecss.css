@@ -1,21 +1,23 @@
 .head {
 
   background-color: pink;
+  color : white;
+  text-align: center;
 
   .nam{
   height: 150px; 	
   /*background-color:pink; */
-  color : white;
+  /*color : white;*/
   font-size: 25px;
   text-decoration: overline;
-  text-align: center;
+  /*text-align: center;*/
   }
 
   .sum{
   font-size: 15px;
   /*background-color:pink;*/
-  color: white;
-  text-align: center;
+  /*color: white;*/
+  /*text-align: center;*/
   }
 
 }
