@@ -1,7 +1,10 @@
 .head {
+
+  background-color: pink;
+
   .nam{
   height: 150px; 	
-  background-color:pink; 
+  /*background-color:pink; */
   color : white;
   font-size: 25px;
   text-decoration: overline;
@@ -10,7 +13,7 @@
 
   .sum{
   font-size: 15px;
-  background-color:pink;
+  /*background-color:pink;*/
   color: white;
   text-align: center;
   }
